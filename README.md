@@ -21,6 +21,7 @@ LeetCode solution
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sd4770155-a11y/LeetCode/tree/master/0189-rotate-array) |
+| [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,12 @@ LeetCode solution
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sd4770155-a11y/LeetCode/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
