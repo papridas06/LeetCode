@@ -22,6 +22,7 @@ LeetCode solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sd4770155-a11y/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/sd4770155-a11y/LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -40,9 +41,11 @@ LeetCode solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sd4770155-a11y/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
