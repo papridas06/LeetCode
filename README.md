@@ -24,6 +24,7 @@ LeetCode solution
 | [0048-rotate-image](https://github.com/sd4770155-a11y/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/sd4770155-a11y/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sd4770155-a11y/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/sd4770155-a11y/LeetCode/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/sd4770155-a11y/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -53,4 +54,5 @@ LeetCode solution
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sd4770155-a11y/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sd4770155-a11y/LeetCode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
