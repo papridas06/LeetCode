@@ -14,10 +14,12 @@ LeetCode solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sd4770155-a11y/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sd4770155-a11y/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sd4770155-a11y/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sd4770155-a11y/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +57,8 @@ LeetCode solution
 | ------- |
 | [0118-pascals-triangle](https://github.com/sd4770155-a11y/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sd4770155-a11y/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sd4770155-a11y/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
